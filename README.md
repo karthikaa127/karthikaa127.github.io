@@ -1,2 +1,9 @@
-# karthikaa127.github.io
-Website
+ABOUT ME
+
+I am a front-end developer, with a post-graduate degree in Computer Applications. I have a strong passion for building clean, functional and intuitive web applications coupled with visually innovative, interactive, responsive user interface designs. I am motivated by advancements and passionate to learn and acquire new skills with a result-oriented attitude.
+
+I have been entrusted with several new web developments as well as upgrades of legacy systems with the latest technology that spans across multiple platforms. I have proven ability in optimizing web functionalities that improve data retrieval and workflow efficiencies. I am also experienced in UX wireframes, middleware architecture with Node and Express, cloud-based session storage and end-to-end deployment process in various applications. I have experience providing responsive front-end development for various clients. I develop clean and elegant web pages with semantic, pixel perfect and responsive layout. My day-to-day work converting UX to hand-coded Semantic HTML5, CSS3 and adding Javascript/jQuery magic with cross-browser compatibility. I design responsive websites for mobile, tablet and PCs using CSS media queries. I have worked on AngularJS, ExtJS applications with Bootstrap and LESS for styles.
+
+I am experienced with Agile approach and used Github for version control in my previous projects. I have worked majorly on Commonspot and Drupal in CMS. I am proficient with Photoshop, Eclipse, Dreamweaver and Sublime. Having wide range of knowledge and experience, I am very much capable of working independently as well as part of a team.
+
+I have worked on multiple industry domains comprising of Hospitality, Telecom, E-Commerce, Retail, Consumer Goods. Having wide range of knowledge and experience, I am very much capable of working independently as well as part of a team.
